@@ -1,0 +1,14 @@
+body{
+    width: 960px;
+    margin: 100px auto 0 auto;
+}
+
+#container{
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.inputbox {
+    font-size: xx-large;
+}
